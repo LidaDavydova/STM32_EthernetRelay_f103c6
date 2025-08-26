@@ -1,0 +1,4 @@
+../Core/DahuaEvents/parse.c:18:1:_dgst_get_val	4
+../Core/DahuaEvents/parse.c:48:1:_check_string	2
+../Core/DahuaEvents/parse.c:183:1:parse_digest	27
+../Core/DahuaEvents/parse.c:239:1:parse_validate_attributes	8

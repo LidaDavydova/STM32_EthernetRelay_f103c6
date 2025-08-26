@@ -1,0 +1,4 @@
+../Core/DahuaEvents/md5.c:28:13:md5_transform	112	static
+../Core/DahuaEvents/md5.c:119:6:MD5_Init	8	static
+../Core/DahuaEvents/md5.c:127:6:MD5_Update	32	static
+../Core/DahuaEvents/md5.c:162:6:MD5_Final	88	static

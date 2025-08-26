@@ -1,0 +1,5 @@
+../Core/DahuaEvents/hash.c:15:1:_get_md5	128	static
+../Core/DahuaEvents/hash.c:37:1:hash_generate_a2	520	static
+../Core/DahuaEvents/hash.c:51:1:hash_generate_a1	784	static
+../Core/DahuaEvents/hash.c:68:1:hash_generate_response_auth	536	static
+../Core/DahuaEvents/hash.c:85:1:hash_generate_response	528	static

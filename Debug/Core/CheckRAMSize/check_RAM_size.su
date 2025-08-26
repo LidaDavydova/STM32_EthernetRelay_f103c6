@@ -1,0 +1,2 @@
+../Core/CheckRAMSize/check_RAM_size.c:17:9:test_address	8	static
+../Core/CheckRAMSize/check_RAM_size.c:39:6:check_RAM	24	static

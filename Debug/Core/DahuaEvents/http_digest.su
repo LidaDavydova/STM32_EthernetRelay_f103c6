@@ -1,0 +1,3 @@
+../Core/DahuaEvents/http_digest.c:119:12:extract_quoted.isra	24	static
+../Core/DahuaEvents/http_digest.c:176:6:http_digest_init	4	static
+../Core/DahuaEvents/http_digest.c:189:22:http_digest_process	3096	static

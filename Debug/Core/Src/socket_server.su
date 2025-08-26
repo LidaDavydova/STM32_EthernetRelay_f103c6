@@ -1,0 +1,2 @@
+../Core/Src/socket_server.c:21:6:SocketServer_Init	0	static
+../Core/Src/socket_server.c:27:6:SocketServer_Loop	24	static

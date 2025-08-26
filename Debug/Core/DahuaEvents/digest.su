@@ -1,0 +1,4 @@
+../Core/DahuaEvents/digest.c:6:1:digest_init	8	static
+../Core/DahuaEvents/digest.c:20:1:digest_is_digest	8	static
+../Core/DahuaEvents/digest.c:34:1:digest_get_attr	0	static
+../Core/DahuaEvents/digest.c:67:1:digest_set_attr	0	static

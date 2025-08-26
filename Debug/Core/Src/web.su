@@ -1,0 +1,2 @@
+../Core/Src/web.c:19:13:send_http_response	160	static
+../Core/Src/web.c:51:6:Web_HandleRequest	272	static

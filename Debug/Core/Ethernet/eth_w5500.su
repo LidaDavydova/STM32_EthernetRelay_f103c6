@@ -1,0 +1,10 @@
+../Core/Ethernet/eth_w5500.c:41:13:W5500_Unselect	0	static
+../Core/Ethernet/eth_w5500.c:40:13:W5500_Select	0	static
+../Core/Ethernet/eth_w5500.c:49:13:W5500_WriteByte	16	static
+../Core/Ethernet/eth_w5500.c:43:16:W5500_ReadByte	16	static
+../Core/Ethernet/eth_w5500.c:25:6:update_gWIZNETINFO_from_device_config	0	static
+../Core/Ethernet/eth_w5500.c:54:6:ETH_W5500_Init	16	static
+../Core/Ethernet/eth_w5500.c:76:6:ETH_W5500_SetNetInfo	0	static
+../Core/Ethernet/eth_w5500.c:81:6:ETH_W5500_GetNetInfo	0	static
+../Core/Ethernet/eth_w5500.c:85:6:ETH_W5500_Tick	0	static
+../Core/Ethernet/eth_w5500.c:90:6:ETH_W5500_PrintNetInfo	48	static

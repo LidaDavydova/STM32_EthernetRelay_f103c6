@@ -1,0 +1,2 @@
+../Core/DahuaEvents/client.c:12:1:digest_client_parse	1
+../Core/DahuaEvents/client.c:45:1:digest_client_generate_header	17
