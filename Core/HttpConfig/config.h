@@ -24,9 +24,8 @@ typedef struct {
 
     uint8_t camera_ip[4];
     uint16_t camera_port;
-    char camera_login[32];    // pointer, you must allocate memory or assign literal
+    char camera_login[32];
     char camera_password[32];
-
     char camera_url[150];
 
     uint8_t relay_enabled;    // relay on/off
